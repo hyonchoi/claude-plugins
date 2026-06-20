@@ -11,7 +11,7 @@ A marketplace for Claude Code plugins by Hyonyoung Choi.
 ## Installing the Marketplace
 
 ```bash
-claude plugin marketplace add hyonchoi/claude-plugins-marketplace
+claude plugin marketplace add hyonchoi/claude-plugins
 ```
 
 ## Installing a Plugin
