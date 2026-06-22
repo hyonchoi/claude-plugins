@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "codex__plugin_list_dir",
+      "codex__plugin_get_current_config"
+    ]
+  },
+  "extraKnownMarketplaces": {}
+}

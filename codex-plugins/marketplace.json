@@ -1,0 +1,32 @@
+{
+  "$schema": "https://openai.com/codex/plugin/marketplace.schema.json",
+  "name": "hyonchoi-codex-plugins",
+  "description": "Codex plugins by Hyonyoung Choi — git workflow tools for project initialization and atomic commits",
+  "owner": {
+    "name": "Hyonyoung Choi",
+    "email": "hyonchoi@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "git-atomic-commits",
+      "description": "Stage and commit git changes atomically — one logical topic per commit — by analyzing diffs, proposing groupings, and using line-level staging.",
+      "author": {
+        "name": "Hyonyoung Choi"
+      },
+      "repository": "https://github.com/hyonchoi/git-atomic-commits",
+      "homepage": "https://github.com/hyonchoi/git-atomic-commits",
+      "license": "MIT",
+      "keywords": [
+        "git",
+        "commit",
+        "atomic",
+        "staging",
+        "workflow"
+      ],
+      "source": {
+        "source": "github",
+        "repo": "hyonchoi/git-atomic-commits"
+      }
+    }
+  ]
+}
