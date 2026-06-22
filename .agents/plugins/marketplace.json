@@ -1,0 +1,20 @@
+{
+  "name": "hyonchoi-plugins",
+  "interface": {
+    "displayName": "Hyonchoi Plugins"
+  },
+  "plugins": [
+    {
+      "name": "git-atomic-commits",
+      "source": {
+        "source": "github",
+        "repo": "hyonchoi/git-atomic-commits"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
