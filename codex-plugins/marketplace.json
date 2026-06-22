@@ -1,6 +1,6 @@
 {
   "$schema": "https://openai.com/codex/plugin/marketplace.schema.json",
-  "name": "hyonchoi-codex-plugins",
+  "name": "hyonchoi-plugins",
   "description": "Codex plugins by Hyonyoung Choi — git workflow tools for project initialization and atomic commits",
   "owner": {
     "name": "Hyonyoung Choi",

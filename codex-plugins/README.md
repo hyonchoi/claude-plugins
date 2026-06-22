@@ -17,7 +17,7 @@ codex plugin marketplace add hyonchoi/codex-plugins
 ## Installing a Plugin
 
 ```bash
-codex plugin install git-atomic-commits@hyonchoi-codex-plugins
+codex plugin install git-atomic-commits@hyonchoi-plugins
 ```
 
 ## Developing
